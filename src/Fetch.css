@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+}
+
+.name {
+    color: red;
+}
+
+.email {
+    color: blue;
+}
